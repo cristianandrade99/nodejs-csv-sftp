@@ -1,0 +1,15 @@
+{
+  "name": "csvsftptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.1",
+    "ssh2-sftp-client": "^9.0.4"
+  }
+}
